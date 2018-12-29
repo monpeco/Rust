@@ -17,6 +17,8 @@ fn main() {
     indiv_word = iter.next();
   }
   
+  println!("Find Best: {}", rand_string.contains("random"));
+  
 }
 
 
